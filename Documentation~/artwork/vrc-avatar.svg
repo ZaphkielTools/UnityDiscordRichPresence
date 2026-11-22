@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <circle id="Background" cx="512" cy="512" r="512" fill="#0D1117"/>
+  <g id="Glyph" fill="#F0F2F4">
+    <circle cx="512" cy="364" r="152"/>
+    <path d="M262 788C262 664 374 584 512 584S762 664 762 788V796Q762 824 734 824H290Q262 824 262 796Z"/>
+  </g>
+</svg>

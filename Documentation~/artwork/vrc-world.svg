@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <clipPath id="Inside"><circle cx="512" cy="512" r="272"/></clipPath>
+  </defs>
+  <circle id="Background" cx="512" cy="512" r="512" fill="#0D1117"/>
+  <g id="Glyph" fill="none" stroke="#F0F2F4" stroke-width="54">
+    <circle cx="512" cy="512" r="272"/>
+    <g clip-path="url(#Inside)">
+      <ellipse cx="512" cy="512" rx="116" ry="272"/>
+      <path d="M200 512H824M200 376H824M200 648H824"/>
+    </g>
+  </g>
+</svg>
