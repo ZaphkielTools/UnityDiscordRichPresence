@@ -1,0 +1,69 @@
+.drp {
+    padding: 1px 10px 10px 10px;
+}
+
+.drp__title {
+    font-size: 19px;
+    -unity-font-style: bold;
+    margin: 0 0 12px 3px;
+}
+
+.drp__status {
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 8px;
+    margin: 0 3px 10px 3px;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+.drp__status-icon {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    margin-right: 6px;
+}
+
+.drp__status-text {
+    flex-shrink: 1;
+    white-space: normal;
+}
+
+.drp .unity-toggle > .unity-base-field__label {
+    min-width: 240px;
+}
+
+.drp__header {
+    -unity-font-style: bold;
+    margin: 14px 0 4px 3px;
+}
+
+.drp__preview {
+    padding: 6px 8px;
+    margin: 0 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: rgba(128, 128, 128, 0.3);
+}
+
+.drp__row {
+    flex-direction: row;
+    margin: 1px 0;
+}
+
+.drp__row-name {
+    width: 90px;
+    flex-shrink: 0;
+    opacity: 0.7;
+}
+
+.drp__row-value {
+    flex-shrink: 1;
+    white-space: normal;
+}
+
+.drp__note {
+    margin: 12px 3px 0 3px;
+    opacity: 0.7;
+    white-space: normal;
+}

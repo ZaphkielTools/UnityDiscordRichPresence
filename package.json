@@ -1,0 +1,18 @@
+{
+  "name": "dev.zaphkiel.udrpc",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "Unity Discord Rich Presence",
+  "description": "Shows the Unity project and scene you are working on as your Discord activity, with the time since the editor started. It talks to the Discord desktop app over its local IPC pipe, without a native plugin. Each project can turn the activity off or hide its names in Preferences > Discord Rich Presence. Works on Unity 2022.3 and Unity 6. Windows only.",
+  "keywords": [
+    "Discord",
+    "Rich Presence",
+    "Editor Tool"
+  ],
+  "author": {
+    "name": "Zaphkiel",
+    "url": "https://github.com/ZaphkielTools"
+  },
+  "documentationUrl": "https://github.com/ZaphkielTools/UnityDiscordRichPresence#readme",
+  "changelogUrl": "https://github.com/ZaphkielTools/UnityDiscordRichPresence/blob/main/CHANGELOG.md"
+}

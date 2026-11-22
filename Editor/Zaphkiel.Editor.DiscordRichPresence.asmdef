@@ -1,0 +1,16 @@
+{
+    "name": "Zaphkiel.Editor.DiscordRichPresence",
+    "rootNamespace": "Zaphkiel.DiscordRichPresence",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
