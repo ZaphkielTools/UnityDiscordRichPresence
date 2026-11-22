@@ -1,0 +1,24 @@
+{
+    "name": "Zaphkiel.Editor.DiscordRichPresence.Tests",
+    "rootNamespace": "Zaphkiel.DiscordRichPresence.Tests",
+    "references": [
+        "Zaphkiel.Editor.DiscordRichPresence",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
